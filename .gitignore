@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# System files
+.DS_Store
+
+# Datasets (adjust path if needed)
+datasets/
+*.csv
+*.tsv
+*.zip
+
+# Model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# TensorFlow logs and checkpoints
+checkpoint
+*.ckpt
+*.pb
+logs/
